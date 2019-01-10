@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Yaktocat](http://www.e3ol.com/news/upfiles/2013/2013261125283683.jpg)
